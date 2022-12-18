@@ -1,0 +1,27 @@
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+}
+.history-logo {
+  height: 60px;
+  width: 90px;
+}
+.search-container {
+  height: 29px;
+  width: 30px;
+  padding: 5px;
+  background-color: #2850a7;
+  border: 1px solid #ececec;
+}
+.search-logo {
+  height: 25px;
+  width: 25px;
+}
+.input-holder {
+  border: 1px solid #ececec;
+  background-color: #2850a7;
+  width: 170px;
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #ffffff;
+}

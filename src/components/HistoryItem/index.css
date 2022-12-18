@@ -1,0 +1,35 @@
+.list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  box-shadow: 5px 5px 8px 4px #f8fafc;
+}
+.time {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #475569;
+  font-weight: bold;
+}
+.logo {
+  height: 10px;
+  width: 10px;
+}
+.title {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #475569;
+  font-weight: bold;
+}
+.domain {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #64748b;
+}
+.button {
+  cursor: pointer;
+}
+.delete-icon {
+  height: 15px;
+  width: 15px;
+}
